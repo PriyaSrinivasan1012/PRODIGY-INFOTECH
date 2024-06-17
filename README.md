@@ -9,7 +9,7 @@ LANGUAGES : HTML,CSS,JAVASCRIPT
 
 | SN  | Name                                    | Track Code    | Demo                                                                               | Description                            |
 | --- | --------------------------------------- | ------------- | -------------------------------------------------------------------------------    | -------------------------------------- |
-| 1   | [Coffe shop] (/PRODIGY_WD_01/README.md)  | PRODIGY_WD_01 | [Demo](https://priyasrinivasan.neocities.org/COFFE%20SHOP/)                        | Responsive Landing page                |
+| 1   | [Coffe shop](/PRODIGY_WD_01/README.md)  | PRODIGY_WD_01 | [Demo](https://priyasrinivasan.neocities.org/COFFE%20SHOP/)                        | Responsive Landing page                |
 | 2   | [stopwatch ](/PRODIGY_WD_02/README.md)  | PRODIGY_WD_02 | [Demo](https://priyasrinivasan.neocities.org/STOPWATCH/PRODIGY_WD_02/)             | stopwatch timer                        |
 | 3   | [Tic Tac Toe](/PRODIGY_WD_03/README.md) | PRODIGY_WD_03 | [Demo](https://priyasrinivasan.neocities.org/tic%20tac%20toe/PRODIGY_WD_03/)       | Tic Tac Toe                            |
 | 4   | [Portfolio](/PRODIGY_WD_04/README.md)   | PRODIGY_WD_04 | [Demo](https://priyasrinivasan.neocities.org/personal%20portfolio/PRODIGY_WD_04/)  | Portfolio website                      |
